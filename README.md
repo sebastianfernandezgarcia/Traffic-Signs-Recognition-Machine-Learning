@@ -28,9 +28,10 @@ In addition, self-made images have been added.
 Data augmentation has been performed on the training set, to obtain new images from those already present. To do this, we have used various parameters such as rotation angle, cut angle, among others, in the `ImageDataGenerator` class
 
 ### Additional Information
-All the implementation details are in the memory that we have made, which can be read from the following link: https://github.com/nahimaort/Traffic-Signs-Recognition/blob/main/Memoria.pdf
+All the implementation details are in the memory that we have made, which can be read from the following link: [Proyect Memory](https://github.com/sebastianfernandezgarcia/Traffic-Signs-Recognition-Machine-Learning/blob/main/Project%20Memory%20-%5BTraffic%20Sings%20Recognition%5D%20-%20Nahima%20%26%20Sebastian.pdf)
+
 In this document, the hyperparameters that have been used are detailed, as well as those that we have tested.
-Also, the concept of `Categorical Cross Entropy` is explained, and how this loss function works
+Also, the concept of `Categorical Cross Entropy` is explained, and how this loss function works.
 
 ### Authors ✒️
   * **Sebastian Fernandez Garcia** - [@sebastianfernandezgarcia](https://github.com/sebastianfernandezgarcia)
