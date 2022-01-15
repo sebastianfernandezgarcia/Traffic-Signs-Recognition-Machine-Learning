@@ -1,5 +1,4 @@
 # Traffic Signs Recognition ⚠️🚦
-## Fundamentals of Intelligent Systems
 
 ### Introduction 📄
 Development of a neural network capable of recognizing nine different danger warning traffic signs.
